@@ -32,7 +32,7 @@ h2{
     display: inline-block;
 } 
 .container{
-    margin-top: 20%;
+    margin-top: 25%;
     margin-left: 5% !important;
 }
 .bg-body-tertiary{
@@ -40,4 +40,8 @@ h2{
 }
 .navbar{
     margin-left: -10px;
+}
+#container{
+    margin-top: 20%;
+    margin-left: 5% !important;
 }
