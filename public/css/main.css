@@ -1,0 +1,43 @@
+span{
+    border-bottom: 2px solid #18d26e;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Raleway", sans-serif;
+  font-size: 2rem !important;
+}
+h1{
+    font-weight: 700 !important;
+}
+h2{
+    font-weight: 100 !important;
+}
+#header h1 {
+    font-size: 48px;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    font-weight: 700;
+    font-family: "Poppins", sans-serif;
+}
+#header h1 a,
+#header h1 a:hover {
+    color: #fff;
+    line-height: 1;
+    display: inline-block;
+} 
+.container{
+    margin-top: 20%;
+    margin-left: 5% !important;
+}
+.bg-body-tertiary{
+    background-color: transparent !important;
+}
+.navbar{
+    margin-left: -10px;
+}
