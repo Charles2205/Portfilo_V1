@@ -45,3 +45,15 @@ h2{
     margin-top: 20%;
     margin-left: 5% !important;
 }
+.navbar:visited {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #f1f1f1;
+  
+}  
+.section {
+    margin-top: 50px; /* Adjust this margin to make space for the fixed navbar */
+    /* Add any other styling you want */
+  }
