@@ -5,4 +5,3 @@
 <!-- https://picsum.photos/300/200 -->
 
 <img src="./public/imgs/screenshots/home.png" width="100%"  height="50%"/>
-:stars2: Feel free to clone this project :stars2:
