@@ -1,16 +1,30 @@
-/* *{background-color: blue;} */
+body{
+    background-image: url(../imgs/endless-constellation.svg);
+    background-size: cover;
+}
 span{
     border-bottom: 2px solid #18d26e;
+    font-weight:400 ;
 }
 
 h1,
 h2,
-h3,
+
 h4,
 h5,
-h6 {
+h6 
+{
   font-family: "Raleway", sans-serif;
   font-size: 2rem !important;
+  color: white !important;
+}
+h3{
+    font-weight: 700;
+    font-size: 2.5rem !important;
+    color: white !important;
+}
+.nav-link{
+    color: white !important;
 }
 h1{
     font-weight: 700 !important;
